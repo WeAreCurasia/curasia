@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/curasia/static/css/main.cab861eb.chunk.css",
+    "main.js": "/curasia/static/js/main.4f8e3a7b.chunk.js",
+    "main.js.map": "/curasia/static/js/main.4f8e3a7b.chunk.js.map",
+    "runtime-main.js": "/curasia/static/js/runtime-main.a28ddbb6.js",
+    "runtime-main.js.map": "/curasia/static/js/runtime-main.a28ddbb6.js.map",
+    "static/css/2.c5403167.chunk.css": "/curasia/static/css/2.c5403167.chunk.css",
+    "static/js/2.d75be3a6.chunk.js": "/curasia/static/js/2.d75be3a6.chunk.js",
+    "static/js/2.d75be3a6.chunk.js.map": "/curasia/static/js/2.d75be3a6.chunk.js.map",
+    "static/js/3.39f85ccf.chunk.js": "/curasia/static/js/3.39f85ccf.chunk.js",
+    "static/js/3.39f85ccf.chunk.js.map": "/curasia/static/js/3.39f85ccf.chunk.js.map",
+    "index.html": "/curasia/index.html",
+    "static/css/2.c5403167.chunk.css.map": "/curasia/static/css/2.c5403167.chunk.css.map",
+    "static/css/main.cab861eb.chunk.css.map": "/curasia/static/css/main.cab861eb.chunk.css.map",
+    "static/js/2.d75be3a6.chunk.js.LICENSE.txt": "/curasia/static/js/2.d75be3a6.chunk.js.LICENSE.txt",
+    "static/media/bgpic.036dd1e9.jpeg": "/curasia/static/media/bgpic.036dd1e9.jpeg",
+    "static/media/founder1.98df1a3a.jpeg": "/curasia/static/media/founder1.98df1a3a.jpeg",
+    "static/media/founder2.afe24a39.jpeg": "/curasia/static/media/founder2.afe24a39.jpeg",
+    "static/media/gmail.e374cacf.png": "/curasia/static/media/gmail.e374cacf.png",
+    "static/media/insta.b9361b06.png": "/curasia/static/media/insta.b9361b06.png",
+    "static/media/logo.ba851efa.jpg": "/curasia/static/media/logo.ba851efa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28ddbb6.js",
+    "static/css/2.c5403167.chunk.css",
+    "static/js/2.d75be3a6.chunk.js",
+    "static/css/main.cab861eb.chunk.css",
+    "static/js/main.4f8e3a7b.chunk.js"
+  ]
+}
