@@ -1,0 +1,53 @@
+.x {
+   overflow: hidden;
+   padding: 0 0;
+   width: 80%;
+   margin: auto;
+   /* border-bottom-right-radius:40% 40%; */
+   box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.36);
+   box-shadow: 0px 4px 100px 0px white;
+}
+
+.f1{
+   float: left;
+   width: 20%;
+   height: auto;
+   margin: 10%;
+   border-radius: 50%;
+   box-shadow: 1px 10px 10px 0px #888888
+}
+.f1:hover{
+   background-color: ivory;
+}
+
+.f2{
+  float: left;
+   width: 20%;
+   height: auto;
+   margin: 10%;
+   border-radius: 50%;
+   box-shadow: 1px 10px 10px 0px #888888
+}
+
+.fx1{
+   font-size: larger;
+   width: 20%;
+   height: auto;
+   margin: 3% 10%;
+
+}
+
+.fx2{
+   font-size: larger;
+   width: 20%;
+   height: auto;
+   margin: 5% 10%;
+
+}
+
+.h1 {
+   color: cornflowerblue;
+   text-align: center;
+}
+
+/* rgb(248, 248, 238); */
